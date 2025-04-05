@@ -1,1 +1,1 @@
-worker: node heroku-bot-starter.js
+worker: pm2-runtime start heroku-bot-starter.js --name BLACKSKY-MD -- --autocleartmp --autoread
