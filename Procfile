@@ -1,1 +1,1 @@
-worker: pm2-runtime start connection-keeper.js --name BLACKSKY-MD -- --autocleartmp --autoread
+worker: pm2-runtime start ecosystem.config.js --name BLACKSKY-MD -- --autocleartmp --autoread
