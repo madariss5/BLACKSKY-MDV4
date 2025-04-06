@@ -1,1 +1,1 @@
-web: node index.js --name BLACKSKY-MD -- --autocleartmp --autoread
+worker: node index.js --name BLACKSKY-MD -- --autocleartmp --autoread
